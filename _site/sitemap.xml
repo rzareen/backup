@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://zzaffar.github.io//on-github/</loc>
+    <loc>/on-github/</loc>
     <lastmod>2016-01-01T00:00:00-08:00</lastmod>
   </url>
   <url>
-    <loc>http://zzaffar.github.io//404.html</loc>
-    <lastmod>2016-01-07T00:39:49-08:00</lastmod>
+    <loc>/404.html</loc>
+    <lastmod>2016-01-07T00:50:50-08:00</lastmod>
   </url>
   <url>
-    <loc>http://zzaffar.github.io//posts/</loc>
-    <lastmod>2016-01-07T00:39:49-08:00</lastmod>
+    <loc>/posts/</loc>
+    <lastmod>2016-01-07T00:50:50-08:00</lastmod>
   </url>
   <url>
-    <loc>http://zzaffar.github.io//</loc>
-    <lastmod>2016-01-07T00:39:49-08:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2016-01-07T00:50:50-08:00</lastmod>
   </url>
   <url>
-    <loc>http://zzaffar.github.io//tags/</loc>
-    <lastmod>2016-01-07T00:39:49-08:00</lastmod>
+    <loc>/tags/</loc>
+    <lastmod>2016-01-07T00:50:50-08:00</lastmod>
   </url>
   <url>
-    <loc>http://zzaffar.github.io//about/</loc>
-    <lastmod>2016-01-07T00:39:49-08:00</lastmod>
+    <loc>/about/</loc>
+    <lastmod>2016-01-07T00:50:50-08:00</lastmod>
   </url>
   <url>
-    <loc>http://zzaffar.github.io//theme-setup/</loc>
-    <lastmod>2016-01-07T00:39:49-08:00</lastmod>
+    <loc>/theme-setup/</loc>
+    <lastmod>2016-01-07T00:50:50-08:00</lastmod>
   </url>
 </urlset>
