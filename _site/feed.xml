@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://zzaffar.github.io//feed.xml" />
 <link rel="alternate" type="text/html" href="http://zzaffar.github.io/" />
-<updated>2016-01-07T01:37:30-08:00</updated>
+<updated>2016-01-07T01:46:15-08:00</updated>
 <id>http://zzaffar.github.io//</id>
 <author>
   <name>Zareen Zaffar</name>
@@ -102,7 +102,6 @@ Specific attention to details, and key thought leader in software development. E
 &lt;div&gt;&lt;i&gt;Senior Analyst/Analyst&lt;/i&gt;&lt;/div&gt; 
 &lt;ul&gt;
 &lt;li&gt;Developed applications in C++, Java, SQL and UNIX for Online message ordering systems used by the West and Midwest regions.
-&lt;li&gt;Lead developer in Billing Application Software to process mid-west and west landline billing data.
 &lt;li&gt;Developed software exceeding client expectations resulting in zero project defects.
 &lt;li&gt;Achieved project cost savings by correcting discrepancies between business rules and application behavior.
 &lt;li&gt;Employed SCM tools to reduce defect rate from 6 per quarter to 1 per quarter within 1 year. 
@@ -119,7 +118,7 @@ Specific attention to details, and key thought leader in software development. E
 &lt;div&gt;&lt;strong&gt;B.A. in Political Science&lt;/strong&gt;&lt;/div&gt;
 &lt;div&gt;University of California, Berkeley, CA&lt;span style=&quot;margin-left:297px;&quot;&gt;1999&lt;/span&gt;&lt;/div&gt;
 &lt;/p&gt;
-&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;
+&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;
 
     &lt;p&gt;&lt;a href=&quot;http://zzaffar.github.io//on-github/&quot;&gt;&lt;/a&gt; was originally published by Zareen Zaffar at &lt;a href=&quot;http://zzaffar.github.io/&quot;&gt;Zareen Zaffar&lt;/a&gt; on January 01, 2016.&lt;/p&gt;
   </content>
