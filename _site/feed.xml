@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://zzaffar.github.io//feed.xml" />
 <link rel="alternate" type="text/html" href="http://zzaffar.github.io/" />
-<updated>2016-01-07T01:46:15-08:00</updated>
+<updated>2016-01-07T20:32:27-08:00</updated>
 <id>http://zzaffar.github.io//</id>
 <author>
   <name>Zareen Zaffar</name>
@@ -58,7 +58,7 @@ Specific attention to details, and key thought leader in software development. E
 &lt;/p&gt;
 &lt;div style=&quot;text-align:center&quot;&gt;&lt;strong&gt;PROFESSIONAL EXPERIENCE&lt;/strong&gt;&lt;/div&gt;
 &lt;p&gt;
-&lt;div&gt;&lt;strong&gt;PG&amp;amp;E&lt;/strong&gt; &lt;span style=&quot;margin-left:50px;&quot;&gt;&lt;i&gt;San Ramon, CA&lt;/i&gt;&lt;/span&gt; &lt;span style=&quot;margin-left:220px;&quot;&gt;February 2014 – October 2014&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;PG&amp;amp;E&lt;/strong&gt; &lt;span style=&quot;margin-left:5%;&quot;&gt;&lt;i&gt;San Ramon, CA&lt;/i&gt;&lt;/span&gt; &lt;span style=&quot;margin-left:37%;&quot;&gt;February 2014 – October 2014&lt;/span&gt;&lt;/div&gt;
 &lt;div&gt;&lt;i&gt;Web Developer&lt;/i&gt;&lt;/div&gt; 
 &lt;ul&gt;
 &lt;li&gt;Full stack web application development to establish the agreement and authorization between the customer and PG&amp;amp;E for the use of equipment to procure energy.
@@ -68,7 +68,7 @@ Specific attention to details, and key thought leader in software development. E
  
 &lt;/p&gt;
 &lt;p&gt;
-&lt;div&gt;&lt;strong&gt;GE Global Research and Development&lt;/strong&gt; &lt;span style=&quot;margin-left:30px;&quot;&gt;&lt;i&gt;San Ramon, CA&lt;/i&gt;&lt;/span&gt; &lt;span style=&quot;margin-left:30px;&quot;&gt;May 2013  – December 2013&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;GE Global Research and Development&lt;/strong&gt; &lt;span style=&quot;margin-left:5%;&quot;&gt;&lt;i&gt;San Ramon, CA&lt;/i&gt;&lt;/span&gt; &lt;span style=&quot;margin-left:4%;&quot;&gt;May 2013  – December 2013&lt;/span&gt;&lt;/div&gt;
 &lt;div&gt;&lt;i&gt;Web Developer&lt;/i&gt;&lt;/div&gt; 
 &lt;ul&gt; 
 &lt;li&gt;Front End Web Developer focus on implementing and integrating Angular JS into technical stack.&lt;/li&gt; 
@@ -83,7 +83,7 @@ Specific attention to details, and key thought leader in software development. E
 &lt;/ul&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;div&gt;&lt;strong&gt;Amcom&lt;/strong&gt; &lt;span style=&quot;margin-left:30px;&quot;&gt;&lt;i&gt;San Ramon, CA&lt;/i&gt;&lt;/span&gt; &lt;span style=&quot;margin-left:244px;&quot;&gt;October 2009 – March 2013&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Amcom&lt;/strong&gt; &lt;span style=&quot;margin-left:5%;&quot;&gt;&lt;i&gt;San Ramon, CA&lt;/i&gt;&lt;/span&gt; &lt;span style=&quot;margin-left:37%;&quot;&gt;October 2009 – March 2013&lt;/span&gt;&lt;/div&gt;
 &lt;div&gt;&lt;i&gt;Software Developer&lt;/i&gt;&lt;/div&gt; 
 &lt;ul&gt; 
 &lt;li&gt;Managed bug fixes, developed enhancements for Clients various websites. Refined procedural code to be modular and object oriented. Studied MVC designs, and utilized frameworks.  
@@ -98,7 +98,7 @@ Specific attention to details, and key thought leader in software development. E
 &lt;/ul&gt;
 &lt;/p&gt;
 &lt;p&gt;
-&lt;div&gt;&lt;strong&gt;SBC/AT&amp;amp;T&lt;/strong&gt; &lt;span style=&quot;margin-left:30px;&quot;&gt;&lt;i&gt;San Ramon, CA&lt;/i&gt;&lt;/span&gt; &lt;span style=&quot;margin-left:226px;&quot;&gt;July 2001 – October 2007&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;SBC/AT&amp;amp;T&lt;/strong&gt; &lt;span style=&quot;margin-left:5%;&quot;&gt;&lt;i&gt;San Ramon, CA&lt;/i&gt;&lt;/span&gt; &lt;span style=&quot;margin-left:37%;&quot;&gt;July 2001 – October 2007&lt;/span&gt;&lt;/div&gt;
 &lt;div&gt;&lt;i&gt;Senior Analyst/Analyst&lt;/i&gt;&lt;/div&gt; 
 &lt;ul&gt;
 &lt;li&gt;Developed applications in C++, Java, SQL and UNIX for Online message ordering systems used by the West and Midwest regions.
@@ -110,13 +110,13 @@ Specific attention to details, and key thought leader in software development. E
 &lt;p&gt;
 &lt;div style=&quot;text-align:center&quot;&gt;&lt;strong&gt;EDUCATION / PROFESSIONAL TRAINING&lt;/strong&gt;&lt;/div&gt;
 
-&lt;div&gt;&lt;strong&gt;SpringOne 2gx Groovy/Grails Training&lt;/strong&gt;&lt;span style=&quot;margin-left:225px;&quot;&gt;October 2012&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;SpringOne 2gx Groovy/Grails Training&lt;/strong&gt;&lt;span style=&quot;margin-left:37%;&quot;&gt;October 2012&lt;/span&gt;&lt;/div&gt;
 
 &lt;div&gt;&lt;strong&gt;M.S Computer Info Systems/Quantitative Business Methods&lt;/strong&gt;&lt;/div&gt;
-&lt;div&gt;California State Hayward, CA&lt;span style=&quot;margin-left:354px;&quot;&gt;2001&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;California State Hayward, CA&lt;span style=&quot;margin-left:59%;&quot;&gt;2001&lt;/span&gt;&lt;/div&gt;
 
 &lt;div&gt;&lt;strong&gt;B.A. in Political Science&lt;/strong&gt;&lt;/div&gt;
-&lt;div&gt;University of California, Berkeley, CA&lt;span style=&quot;margin-left:297px;&quot;&gt;1999&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;University of California, Berkeley, CA&lt;span style=&quot;margin-left:49.5%;&quot;&gt;1999&lt;/span&gt;&lt;/div&gt;
 &lt;/p&gt;
 &lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;
 
