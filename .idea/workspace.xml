@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="fda90039-6dd3-4019-989d-c7ad5c4c5f49" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-01-01-on-github.md" afterPath="$PROJECT_DIR$/_posts/2017-01-01-on-github.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
     </list>
     <ignored path="zzaffar.github.io.iws" />
@@ -66,11 +67,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-01-01-on-github.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2017-01-01-on-github.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2017-01-01-on-github.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.2222223">
-              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+            <state vertical-scroll-proportion="0.37931034">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -86,11 +87,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_site/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.38127854">
-              <caret line="132" column="4" selection-start-line="132" selection-start-column="0" selection-end-line="251" selection-end-column="46" />
+            <state vertical-scroll-proportion="7.375">
+              <caret line="132" column="0" selection-start-line="132" selection-start-column="0" selection-end-line="132" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -150,9 +151,9 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_site/feed.xml" />
         <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/_posts/2017-01-01-on-github.md" />
         <option value="$PROJECT_DIR$/_site/on-github/index.html" />
         <option value="$PROJECT_DIR$/_site/index.html" />
+        <option value="$PROJECT_DIR$/_posts/2017-01-01-on-github.md" />
       </list>
     </option>
   </component>
@@ -210,6 +211,16 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="zzaffar.github.io" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zzaffar.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zzaffar.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -686,7 +697,7 @@
       <workItem from="1452225320660" duration="1830000" />
       <workItem from="1452228710238" duration="1543000" />
       <workItem from="1454561311559" duration="70000" />
-      <workItem from="1485156150681" duration="1773000" />
+      <workItem from="1485156150681" duration="1988000" />
     </task>
     <task id="LOCAL-00001" summary="some changes">
       <created>1426953274108</created>
@@ -844,11 +855,17 @@
       <option name="project" value="LOCAL" />
       <updated>1485159051891</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="added github">
+      <created>1485159304044</created>
+      <option name="number" value="00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1485159304044</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25449000" />
+    <option name="totallyTimeSpent" value="25664000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -1205,14 +1222,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-01-01-on-github.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.2222223">
-          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/on-github/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="23.625">
@@ -1223,8 +1232,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_site/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38127854">
-          <caret line="132" column="4" selection-start-line="132" selection-start-column="0" selection-end-line="251" selection-end-column="46" />
+        <state vertical-scroll-proportion="7.375">
+          <caret line="132" column="0" selection-start-line="132" selection-start-column="0" selection-end-line="132" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-01-01-on-github.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37931034">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
