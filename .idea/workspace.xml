@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fda90039-6dd3-4019-989d-c7ad5c4c5f49" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-01-01-on-github.md" afterPath="$PROJECT_DIR$/_posts/2017-01-01-on-github.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/on-github/index.html" afterPath="$PROJECT_DIR$/_site/on-github/index.html" />
     </list>
     <ignored path="zzaffar.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -687,7 +685,7 @@
       <workItem from="1452225320660" duration="1830000" />
       <workItem from="1452228710238" duration="1543000" />
       <workItem from="1454561311559" duration="70000" />
-      <workItem from="1485156150681" duration="1093000" />
+      <workItem from="1485156150681" duration="1120000" />
     </task>
     <task id="LOCAL-00001" summary="some changes">
       <created>1426953274108</created>
@@ -827,11 +825,17 @@
       <option name="project" value="LOCAL" />
       <updated>1485156998580</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="added github">
+      <created>1485157282068</created>
+      <option name="number" value="00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1485157282068</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24769000" />
+    <option name="totallyTimeSpent" value="24796000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
